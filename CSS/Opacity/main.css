@@ -1,0 +1,90 @@
+
+
+@font-face {
+    font-family: 'girassolregular';
+    src: url('./Fonts/gr.woff2') format('woff2'),
+         url('./Fonts/gr.woff') format('woff');
+    
+
+}
+
+body {
+    background-color: aqua;
+    font-family:'girassolregular';
+    font-size: 20px;
+}
+
+p  {
+    background-color: #11d33b;
+    font-family: monospace;
+    
+}
+
+h2 {
+    background-color: rgb(235, 243, 235,);
+    opacity: 0.6;
+}
+
+span {
+
+opacity: 0.5;
+font-weight: bold;
+font-style: italic;
+}
+
+.long {
+    background-color: rgba(255, 140, 0,0.5);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+
+}
+
+h1 {
+    background-color: gold;
+    opacity: 0.5;
+    font-family: 'Times New Roman', Times, serif;
+}
+div> p> img {
+    opacity: 0.5;
+
+
+}
+
+#pictures2 {
+    background-color: rgba(255, 105, 180, 0.5);
+}
+.col1 {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.col2 {
+    background-color: hotpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col3 {
+    background-color: indigo;
+}
+.col4 {
+    background-color: rgb(184, 10, 10);
+}
+
+.col5 {
+    background-color: maroon;
+}
+
+th {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.q1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.q2 {
+    font-family: cursive;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
