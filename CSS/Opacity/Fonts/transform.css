@@ -1,0 +1,42 @@
+.p1 {
+text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 5px;
+text-align: left;
+}
+
+.p2 {
+    text-transform: lowercase;
+    text-decoration: line-through;
+    line-height: 200%;
+    text-align: right;
+
+}
+
+.p3 {
+    text-align: center;
+}
+
+li {
+    color: rgb(47, 185, 240);
+    text-shadow: 5px 5px 3px black;
+
+}
+ 
+a {
+    color: red;
+    
+}
+
+a:visited {
+    color:black;
+
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    color: green;
+}
