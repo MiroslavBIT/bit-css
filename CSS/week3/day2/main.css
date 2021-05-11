@@ -1,0 +1,55 @@
+.ul1{
+    list-style-type: circle;
+}
+
+.ul2{
+    list-style-type: square;
+}
+
+.ol1{
+    list-style-type: upper-alpha;
+}
+
+.ol2{
+    list-style-type: upper-roman;
+}
+
+.ul3{
+list-style-image: url("./icon.png");
+width: 200px;
+}
+
+.ul4 {
+    list-style-image: url("./icon.png");
+    list-style-position: inside;
+    width: 200px;
+}
+
+th {
+    background-color:#c1392a;
+}
+
+table {
+margin:0px auto; 
+}
+
+td>img {
+    height: 100px;
+}
+
+td {
+    padding: 10px 0px;
+}
+
+tr:nth-child(odd) td {
+    background-color: #eee;
+}
+tr:nth-child(odd):hover td {
+    background-color:yellow;
+}
+tr:nth-child(even) td {
+    background-color: #fff;
+}
+tr:nth-child(even):hover td {
+    background-color: yellow;
+}
